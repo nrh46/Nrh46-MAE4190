@@ -1,0 +1,33 @@
+# Site settings
+title: Your Site Title
+description: A brief description of your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yourusername.github.io" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Author information
+author:
+  name: Your Name
+  email: your.email@example.com
+
+# Social links
+social:
+  links:
+    - https://github.com/yourusername
+    - https://twitter.com/yourusername
+
+# Exclude files from build
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Markdown processor
+markdown: kramdown
+highlighter: rouge
