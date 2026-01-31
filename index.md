@@ -2,8 +2,10 @@
 
 Welcome to the Fast Robots course repository created by Noah Harman.
 
-## Overview
-This repository contains coursework, projects, and documentation for MAE4190: Fast Robots at Cornell University.
+## About Me
+Hi, my name is Noah Harman. I am a mechanical engineering student at Cornell university, focusing on aerospace esign and mechatronics. 
+
+While here at Cornell 
 
 ## Course Information
 - **Course**: MAE4190 - Fast Robots
